@@ -1,6 +1,16 @@
 body {
   background-color: #383D58;
   color: white;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+.calculadora{
+  background-color: #2F2B39;
+  width: 252px;
+  margin: 5px;
 }
 .cabecalho{
   background-color: #383D58;
